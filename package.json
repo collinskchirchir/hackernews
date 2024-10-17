@@ -1,0 +1,12 @@
+{
+  "name": "hackernews",
+  "scripts": {
+    "dev": "bun run --hot server/index.ts"
+  },
+  "dependencies": {
+    "hono": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
